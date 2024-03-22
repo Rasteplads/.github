@@ -7,7 +7,7 @@
 
 👩‍💻 We love C++
 
-🍿 We love Lima 
+🚌 We love Lima 
 
-🧙 We do not want a bad grade like 7 or 10
+🙅‍♀️ We do not want a bad grade like 7 or 10
 
