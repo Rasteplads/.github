@@ -5,7 +5,7 @@
 
 🌈 We are 10x developers
 
-👩‍💻 We love C++
+👩‍💻 We hate C++
 
 🚌 We love Lima 
 
